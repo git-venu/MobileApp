@@ -1,0 +1,14 @@
+1.can we move some builds from dev to prod environment?
+
+2.can we move hte dev builds to production? can we move data to prod instance before then on hte day of production go-live, can we update data??
+
+How to install remote agents?
+
+I wnato move my server to new location() If you have reommnded steps to planning 
+
+when we move bamboo, all other s/w's are also migrated? like MSbuild, Visula studio, sql etc.
+how to enable https for bamboo?
+
+produciton support support on the day of golive
+
+how to enable step by steps
